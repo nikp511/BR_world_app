@@ -1,0 +1,72 @@
+<resources>
+
+    <!-- Base application theme. -->
+
+    <!-- Base application theme. -->
+
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <!-- Customize your theme here. -->
+
+
+        <item name="colorPrimary">@color/colorPrimary</item>
+
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="actionButtonStyle">@style/AppTheme.Widget.ActionButton</item>
+
+    </style>
+
+
+    <style name="TrackSelectionDialogThemeOverlay" parent="ThemeOverlay.AppCompat.Dialog.Alert">
+        <item name="windowNoTitle">false</item>
+    </style>
+
+    <style name="AppTheme.Widget.ActionButton" parent="@style/Widget.AppCompat.ActionButton">
+
+        <item name="textAllCaps">false</item>
+
+        <item name="android:textSize">15sp</item>
+
+    </style>
+
+
+
+
+    <style name="customToolbar" parent="ThemeOverlay.AppCompat.Dark">
+
+        <item name="android:textColorPrimary">@android:color/white</item>
+
+        <item name="android:textColorSecondary">@android:color/white</item>
+
+    </style>
+
+
+    <style name="progressBarCentre">
+
+        <item name="android:layout_width">@dimen/progressbar_center</item>
+
+        <item name="android:layout_height">@dimen/progressbar_center</item>
+
+        <item name="android:layout_centerHorizontal">true</item>
+
+        <item name="android:layout_centerVertical">true</item>
+
+    </style>
+
+    <style name="NavigationView">
+        <item name="android:listDivider">@android:color/black</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">15sp</item>
+
+    </style>
+    <style name="botoombar_textchange">
+        <item name="android:textSize">12sp</item>
+    </style>
+
+
+</resources>

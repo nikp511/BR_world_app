@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "625435688009",
+    "firebase_url": "https://br-world-1580231212466.firebaseio.com",
+    "project_id": "br-world-1580231212466",
+    "storage_bucket": "br-world-1580231212466.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625435688009:android:8f6c0438fd1e7c1b3e5398",
+        "android_client_info": {
+          "package_name": "com.movie.brworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625435688009-os41lve97h040uds5n21n5muj4hjc6ef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.movie.brworld",
+            "certificate_hash": "b68536f528e76c9c8ab4d6835e79c23f94e79b6a"
+          }
+        },
+        {
+          "client_id": "625435688009-o5uimqeb954h885l7samj1lmstku0sa5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.movie.brworld",
+            "certificate_hash": "4a21fb6dee4fc56c54f9b1a3a70d2ea4bc5eeab2"
+          }
+        },
+        {
+          "client_id": "625435688009-ocseumansooudddh6lhkj5pmfq6tk504.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDEiqLiF8hlDXFbDCqpySfAFp9zNeZXk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625435688009-ocseumansooudddh6lhkj5pmfq6tk504.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

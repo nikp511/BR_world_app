@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/drawer_broker_home"
+            android:checked="true"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:iconTint="@color/white"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/drawer_movie"
+            android:checked="true"
+            android:icon="@drawable/movie"
+            android:iconTint="@color/white"
+            android:title="Movie" />
+
+        <item
+            android:id="@+id/drawer_series"
+            android:checked="true"
+            android:icon="@drawable/video"
+            android:iconTint="@color/white"
+            android:title="Series" />
+
+        <item
+            android:id="@+id/drawer_youtube"
+            android:checked="true"
+            android:icon="@drawable/youtube"
+            android:iconTint="@color/white"
+            android:title="Youtube" />
+
+        <item
+            android:id="@+id/drawer_my_account"
+            android:checked="true"
+            android:icon="@drawable/ic_person_black_24dp"
+            android:iconTint="@color/white"
+            android:title="My Account" />
+
+        <item
+            android:id="@+id/drawer_invite_people"
+            android:checked="true"
+            android:icon="@drawable/invite_people"
+            android:iconTint="@color/white"
+            android:title="Invite People" />
+
+        <item
+            android:id="@+id/drawer_search"
+            android:checked="true"
+            android:icon="@drawable/ic_search_black_24dp"
+            android:iconTint="@color/white"
+            android:title="Search" />
+
+        <item
+            android:id="@+id/drawer_privacy_policy"
+            android:checked="true"
+            android:icon="@drawable/ic_info_outline_black_24dp"
+            android:iconTint="@color/white"
+            android:title="Privacy Policy" />
+
+
+        <item
+            android:id="@+id/drawer_logout"
+            android:checked="true"
+            android:icon="@drawable/logout"
+            android:iconTint="@color/white"
+            android:title="Logout" />
+
+
+    </group>
+</menu>

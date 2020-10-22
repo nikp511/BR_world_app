@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <dimen name="margin_twentyfour">24dp</dimen>
+    <dimen name="margin_four">4dp</dimen>
+    <dimen name="margin_sixteen">16dp</dimen>
+    <dimen name="margin_one">1dp</dimen>
+    <dimen name="textsize_twenty">20sp</dimen>
+    <dimen name="textsize_eighty">80sp</dimen>
+    <dimen name="textsize_sixteen">16sp</dimen>
+    <dimen name="two_dp">2dp</dimen>
+    <dimen name="progressbar_center">64dp</dimen>
+    <dimen name="app_bar_height">56dp</dimen>
+    <dimen name="image_home_gallery">100dp</dimen>
+    <dimen name="margin_eight">8dp</dimen>
+    <dimen name="margin_two">2dp</dimen>
+    <dimen name="textsize_twelve">12sp</dimen>
+    <dimen name="textsize_eighteen">18sp</dimen>
+    <dimen name="appbar">250dp</dimen>
+    <dimen name="margin_thirtytwo">32dp</dimen>
+    <dimen name="margin_onesixtyfour">164dp</dimen>
+    <dimen name="margin_twofifty">250dp</dimen>
+    <dimen name="institute_imageheight">200dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+
+    <dimen name="design_navigation_icon_size" tools:override="true">18dp</dimen>
+
+</resources>

@@ -1,0 +1,19 @@
+<tabs>
+    <tab
+        icon="@drawable/ic_home_black_24dp"
+        id="@+id/home"
+        title="Home" />
+    <tab
+        icon="@drawable/movie"
+        id="@+id/movie"
+        title="Movie" />
+
+    <tab
+        icon="@drawable/video"
+        id="@+id/series"
+        title="Series" />
+    <tab
+        icon="@drawable/upcoming"
+        id="@+id/upcoming"
+        title="Upcoming" />
+</tabs>
